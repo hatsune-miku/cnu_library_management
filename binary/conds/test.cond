@@ -1,0 +1,7 @@
+; Auto-generated condition file
+
+[cond]
+cnt=3
+1=STR_BOOK_PRICE,>,15
+2=STR_BOOK_PRICE,<,40
+3=STR_BOOK_PUB,N,清华大学出版社
