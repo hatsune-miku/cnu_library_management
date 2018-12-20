@@ -1,6 +1,11 @@
 # cnu_library_management
 CNU程序设计大作业 - 图书管理系统
 
+binary目录是编译好的成品
+source和include目录分别是源文件和头文件
+source里面还包含了用到的库的lib
+如果需要自行编译，也提供了CMakeLists可以使用
+
 ![](title.png)
 
 ## 主要功能
@@ -26,3 +31,6 @@ CNU程序设计大作业 - 图书管理系统
 
 ## 尚未实现
 + 多用户管理
+
+## License
+见README.pdf
